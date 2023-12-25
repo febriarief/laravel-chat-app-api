@@ -3,7 +3,7 @@ The backend application handles requests from the [Nativescript Chat App](https:
 
 ### Todo
 
-- [ ] Create ERD
+- [x] Create ERD
 - [ ] Authentication
     - [ ] Login
     - [ ] Register
